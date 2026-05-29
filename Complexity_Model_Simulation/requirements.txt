@@ -1,7 +1,0 @@
-numpy
-pandas
-matplotlib
-statsmodels
-ipython
-jupyter
-notebook
